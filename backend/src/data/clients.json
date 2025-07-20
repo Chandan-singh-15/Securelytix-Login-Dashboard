@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Solutions",
+    "email": "contact@technova.in",
+    "phone": "+91 98765 43210",
+    "address": "123 Tech Park, Electronic City, Bengaluru, KA 560100",
+    "industry": "Technology",
+    "contactPerson": "Anita Verma",
+    "contractValue": "₹25,00,000",
+    "status": "Active",
+    "joinDate": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Aarogya HealthCare",
+    "email": "info@aarogya.in",
+    "phone": "+91 91234 56789",
+    "address": "456 Health Avenue, Hyderabad, TG 500001",
+    "industry": "Healthcare",
+    "contactPerson": "Dr. Arvind Rao",
+    "contractValue": "₹18,00,000",
+    "status": "Active",
+    "joinDate": "2023-03-20"
+  },
+  {
+    "id": 3,
+    "name": "FinServe India Pvt Ltd",
+    "email": "support@finserve.in",
+    "phone": "+91 99887 76655",
+    "address": "789 Dalal Street, Mumbai, MH 400001",
+    "industry": "Finance",
+    "contactPerson": "Suresh Mehta",
+    "contractValue": "₹42,00,000",
+    "status": "Active",
+    "joinDate": "2022-11-10"
+  },
+  {
+    "id": 4,
+    "name": "Edureka Academy",
+    "email": "admin@edureka.in",
+    "phone": "+91 90000 12345",
+    "address": "321 Education Lane, Pune, MH 411001",
+    "industry": "Education",
+    "contactPerson": "Neha Singh",
+    "contractValue": "₹9,50,000",
+    "status": "Pending",
+    "joinDate": "2023-06-01"
+  },
+  {
+    "id": 5,
+    "name": "RetailMax India",
+    "email": "support@retailmax.in",
+    "phone": "+91 80088 55664",
+    "address": "654 Bazaar Road, Ahmedabad, GJ 380001",
+    "industry": "Retail",
+    "contactPerson": "Amit Patel",
+    "contractValue": "₹32,00,000",
+    "status": "Active",
+    "joinDate": "2023-02-28"
+  },
+  {
+  "id": 6,
+  "name": "GreenGrid Energy Pvt Ltd",
+  "email": "hello@greengrid.in",
+  "phone": "+91 88990 11223",
+  "address": "888 Solar Valley, Sector 62, Noida, UP 201309",
+  "industry": "Energy",
+  "contactPerson": "Ritika Sharma",
+  "contractValue": "₹28,75,000",
+  "status": "Active",
+  "joinDate": "2023-04-10"
+  }
+]
